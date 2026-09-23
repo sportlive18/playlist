@@ -2,26 +2,32 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "04:24:48 AM 23-09-2026",
-    "generated_at": "2026-09-22 23:00:06",
+    "source_last_updated": "06:05:45 AM 23-09-2026",
+    "generated_at": "2026-09-23 00:40:10",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 36,
-    "live_matches_count": 0,
-    "upcoming_matches_count": 36,
+    "live_matches_count": 1,
+    "upcoming_matches_count": 35,
     "matches": [
         {
             "event_category": "Cricket",
-            "match_id": 4249275,
-            "title": "South Australia vs Tasmania (One Day Cup, 2026/27)",
-            "match_name": "South Australia vs Tasmania",
+            "match_id": "4249275_ENG",
+            "title": "One Day Cup, 2026/27 [English]",
+            "match_name": "South Australia vs Tasmania [English]",
             "event_name": "One Day Cup, 2026/27",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249275_53072_SAU_TAS_FC-Web.jpg",
             "team_1": "South Australia",
             "team_2": "Tasmania",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "startTime": "06:00:00 AM 23-09-2026",
-            "user-agent": null
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249275_ENG/english.m3u8"
+                }
+            ]
         },
         {
             "event_category": "Cricket",
@@ -103,19 +109,6 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4249525,
-            "title": "Sreenidi Deccan FC vs Mohun Bagan Super Giant (IFA Shield 2026)",
-            "match_name": "Sreenidi Deccan FC vs Mohun Bagan Super Giant",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
-            "team_1": "Sreenidi Deccan FC",
-            "team_2": "Mohun Bagan Super Giant",
-            "status": "UPCOMING",
-            "startTime": "03:00:00 PM 23-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
             "match_id": 4249475,
             "title": "Chelsea F.C. Women vs Austria Wien Women (UEFA Women's Champions League 2026-27)",
             "match_name": "Chelsea F.C. Women vs Austria Wien Women",
@@ -138,6 +131,19 @@
             "team_2": "Paris FC Women",
             "status": "UPCOMING",
             "startTime": "12:30:00 AM 24-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249525,
+            "title": "Sreenidi Deccan FC vs Mohun Bagan Super Giant (IFA Shield 2026)",
+            "match_name": "Sreenidi Deccan FC vs Mohun Bagan Super Giant",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
+            "team_1": "Sreenidi Deccan FC",
+            "team_2": "Mohun Bagan Super Giant",
+            "status": "UPCOMING",
+            "startTime": "03:00:00 PM 23-09-2026",
             "user-agent": null
         },
         {
@@ -479,21 +485,28 @@
             "user-agent": null
         }
     ],
-    "live_matches": [],
-    "upcoming_matches": [
+    "live_matches": [
         {
             "event_category": "Cricket",
-            "match_id": 4249275,
-            "title": "South Australia vs Tasmania (One Day Cup, 2026/27)",
-            "match_name": "South Australia vs Tasmania",
+            "match_id": "4249275_ENG",
+            "title": "One Day Cup, 2026/27 [English]",
+            "match_name": "South Australia vs Tasmania [English]",
             "event_name": "One Day Cup, 2026/27",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249275_53072_SAU_TAS_FC-Web.jpg",
             "team_1": "South Australia",
             "team_2": "Tasmania",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "startTime": "06:00:00 AM 23-09-2026",
-            "user-agent": null
-        },
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249275_ENG/english.m3u8"
+                }
+            ]
+        }
+    ],
+    "upcoming_matches": [
         {
             "event_category": "Cricket",
             "match_id": 4249576,
@@ -574,19 +587,6 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4249525,
-            "title": "Sreenidi Deccan FC vs Mohun Bagan Super Giant (IFA Shield 2026)",
-            "match_name": "Sreenidi Deccan FC vs Mohun Bagan Super Giant",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
-            "team_1": "Sreenidi Deccan FC",
-            "team_2": "Mohun Bagan Super Giant",
-            "status": "UPCOMING",
-            "startTime": "03:00:00 PM 23-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
             "match_id": 4249475,
             "title": "Chelsea F.C. Women vs Austria Wien Women (UEFA Women's Champions League 2026-27)",
             "match_name": "Chelsea F.C. Women vs Austria Wien Women",
@@ -609,6 +609,19 @@
             "team_2": "Paris FC Women",
             "status": "UPCOMING",
             "startTime": "12:30:00 AM 24-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249525,
+            "title": "Sreenidi Deccan FC vs Mohun Bagan Super Giant (IFA Shield 2026)",
+            "match_name": "Sreenidi Deccan FC vs Mohun Bagan Super Giant",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
+            "team_1": "Sreenidi Deccan FC",
+            "team_2": "Mohun Bagan Super Giant",
+            "status": "UPCOMING",
+            "startTime": "03:00:00 PM 23-09-2026",
             "user-agent": null
         },
         {
