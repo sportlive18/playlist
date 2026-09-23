@@ -2,90 +2,89 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "05:22:26 PM 23-09-2026",
-    "generated_at": "2026-09-23 11:55:08",
+    "source_last_updated": "10:05:50 PM 23-09-2026",
+    "generated_at": "2026-09-23 16:45:06",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 38,
-    "live_matches_count": 2,
-    "upcoming_matches_count": 36,
+    "live_matches_count": 4,
+    "upcoming_matches_count": 34,
     "matches": [
         {
             "event_category": "Cricket",
-            "match_id": "4249576_ENG",
+            "match_id": "4249577_ENG",
             "title": "Odisha T20 League 2026 [English]",
-            "match_name": "Rourkela Superstars vs Puri Titans [English]",
+            "match_name": "Bhubaneshwar Tigers vs Kataka Panthers [English]",
             "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249576_53080_ROR_PUT_fc-web_1789983233576.jpg",
-            "team_1": "Rourkela Superstars",
-            "team_2": "Puri Titans",
-            "status": "LIVE",
-            "startTime": "02:30:00 PM 23-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249576_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4248544_ENG",
-            "title": "ATP 250 - Hangzhou Open 2026 [English]",
-            "match_name": "Day 1 [English]",
-            "event_name": "ATP 250 - Hangzhou Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Hangzhou, China",
-            "status": "LIVE",
-            "startTime": "01:30:00 PM 23-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248544_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249577,
-            "title": "Bhubaneshwar Tigers vs Cuttack Panthers (Odisha T20 League 2026)",
-            "match_name": "Bhubaneshwar Tigers vs Cuttack Panthers",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249577_53080_BBT_CUT_fc-web_1789983232746.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249577_53080_BBT_CUT_fc-web_1790170352686.jpg",
             "team_1": "Bhubaneshwar Tigers",
-            "team_2": "Cuttack Panthers",
-            "status": "UPCOMING",
+            "team_2": "Kataka Panthers",
+            "status": "LIVE",
             "startTime": "07:30:00 PM 23-09-2026",
-            "user-agent": null
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249577_ENG/english.m3u8"
+                }
+            ]
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249578,
-            "title": "Keonjhar Miners vs Sambalpur Warriors (Odisha T20 League 2026)",
-            "match_name": "Keonjhar Miners vs Sambalpur Warriors",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249578_53080_KNM_SAW_fc-web_1789983232790.jpg",
-            "team_1": "Keonjhar Miners",
-            "team_2": "Sambalpur Warriors",
-            "status": "UPCOMING",
-            "startTime": "02:30:00 PM 24-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249256,
-            "title": "Gulf Giants Development vs Abu Dhabi Knight Riders Development (DP World ILT20 Development Tournament 2026)",
-            "match_name": "Gulf Giants Development vs Abu Dhabi Knight Riders Development",
+            "match_id": "4249256_ENG",
+            "title": "DP World ILT20 Development Tournament 2026 [English]",
+            "match_name": "Gulf Giants Development vs Abu Dhabi Knight Riders Development [English]",
             "event_name": "DP World ILT20 Development Tournament 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/web-1.png",
             "team_1": "Gulf Giants Development",
             "team_2": "Abu Dhabi Knight Riders Development",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "startTime": "06:30:00 PM 23-09-2026",
-            "user-agent": null
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249256_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Football",
+            "match_id": "4249473_ENG",
+            "title": "UEFA Women's Champions League 2026-27 [English]",
+            "match_name": "Oud-Heverlee Leuven Women vs Roma Women [English]",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249473_53078_OHL-W_ROM-W_fc-web_1790067154450.jpg",
+            "team_1": "Oud-Heverlee Leuven Women",
+            "team_2": "Roma Women",
+            "status": "LIVE",
+            "startTime": "10:15:00 PM 23-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249473_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Football",
+            "match_id": "4249474_ENG",
+            "title": "UEFA Women's Champions League 2026-27 [English]",
+            "match_name": "Servette Women vs OL Lyonnes [English]",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249474_53078_SVT-W_OLY-W_fc-web_1790067154527.jpg",
+            "team_1": "Servette Women",
+            "team_2": "OL Lyonnes",
+            "status": "LIVE",
+            "startTime": "10:15:00 PM 23-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249474_ENG/english.m3u8"
+                }
+            ]
         },
         {
             "event_category": "Cricket",
@@ -101,29 +100,29 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249473,
-            "title": "Oud-Heverlee Leuven Women vs Roma Women (UEFA Women's Champions League 2026-27)",
-            "match_name": "Oud-Heverlee Leuven Women vs Roma Women",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249473_53078_OHL-W_ROM-W_fc-web_1790067154450.jpg",
-            "team_1": "Oud-Heverlee Leuven Women",
-            "team_2": "Roma Women",
+            "event_category": "Cricket",
+            "match_id": 4249578,
+            "title": "Keonjhar Miners vs Sambalpur Warriors (Odisha T20 League 2026)",
+            "match_name": "Keonjhar Miners vs Sambalpur Warriors",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249578_53080_KNM_SAW_fc-web_1790170352089.jpg",
+            "team_1": "Keonjhar Miners",
+            "team_2": "Sambalpur Warriors",
             "status": "UPCOMING",
-            "startTime": "10:15:00 PM 23-09-2026",
+            "startTime": "02:30:00 PM 24-09-2026",
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249474,
-            "title": "Servette Women vs OL Lyonnes (UEFA Women's Champions League 2026-27)",
-            "match_name": "Servette Women vs OL Lyonnes",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249474_53078_SVT-W_OLY-W_fc-web_1790067154527.jpg",
-            "team_1": "Servette Women",
-            "team_2": "OL Lyonnes",
+            "event_category": "Cricket",
+            "match_id": 4249579,
+            "title": "Puri Titans vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
+            "match_name": "Puri Titans vs Bhubaneshwar Tigers",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249579_53080_PUT_BBT_fc-web_1790170352733.jpg",
+            "team_1": "Puri Titans",
+            "team_2": "Bhubaneshwar Tigers",
             "status": "UPCOMING",
-            "startTime": "10:15:00 PM 23-09-2026",
+            "startTime": "07:30:00 PM 24-09-2026",
             "user-agent": null
         },
         {
@@ -150,19 +149,6 @@
             "team_2": "Paris FC Women",
             "status": "UPCOMING",
             "startTime": "12:30:00 AM 24-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249579,
-            "title": "Puri Titans vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
-            "match_name": "Puri Titans vs Bhubaneshwar Tigers",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249579_53080_PUT_BBT_fc-web_1789983232822.jpg",
-            "team_1": "Puri Titans",
-            "team_2": "Bhubaneshwar Tigers",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 PM 24-09-2026",
             "user-agent": null
         },
         {
@@ -194,27 +180,27 @@
         {
             "event_category": "Tennis",
             "match_id": 4248538,
-            "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
-            "match_name": "ATP 250 - Chengdu Open 2026",
+            "title": "Day 2 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
+            "match_name": "Day 2",
             "event_name": "ATP 250 - Chengdu Open 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
-            "team_1": "ATP 250 - Chengdu Open 2026",
+            "team_1": "Day 2",
             "team_2": "Chengdu, China",
             "status": "UPCOMING",
-            "startTime": "09:00:00 AM 24-09-2026",
+            "startTime": "10:30:00 AM 24-09-2026",
             "user-agent": null
         },
         {
             "event_category": "Tennis",
             "match_id": 4248545,
-            "title": "ATP 250 - Hangzhou Open 2026 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
-            "match_name": "ATP 250 - Hangzhou Open 2026",
+            "title": "Day 2 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
+            "match_name": "Day 2",
             "event_name": "ATP 250 - Hangzhou Open 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-            "team_1": "ATP 250 - Hangzhou Open 2026",
+            "team_1": "Day 2",
             "team_2": "Hangzhou, China",
             "status": "UPCOMING",
-            "startTime": "09:00:00 AM 24-09-2026",
+            "startTime": "11:00:00 AM 24-09-2026",
             "user-agent": null
         },
         {
@@ -298,12 +284,12 @@
         {
             "event_category": "Cricket",
             "match_id": 4249580,
-            "title": "Rourkela Superstars vs Cuttack Panthers (Odisha T20 League 2026)",
-            "match_name": "Rourkela Superstars vs Cuttack Panthers",
+            "title": "Rourkela Superstars vs Kataka Panthers (Odisha T20 League 2026)",
+            "match_name": "Rourkela Superstars vs Kataka Panthers",
             "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249580_53080_ROR_CUT_fc-web_1789983232752.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249580_53080_ROR_CUT_fc-web_1790170352094.jpg",
             "team_1": "Rourkela Superstars",
-            "team_2": "Cuttack Panthers",
+            "team_2": "Kataka Panthers",
             "status": "UPCOMING",
             "startTime": "02:30:00 PM 25-09-2026",
             "user-agent": null
@@ -353,7 +339,7 @@
             "title": "Puri Titans vs Keonjhar Miners (Odisha T20 League 2026)",
             "match_name": "Puri Titans vs Keonjhar Miners",
             "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249581_53080_PUT_KNM_fc-web_1789983232835.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249581_53080_PUT_KNM_fc-web_1790170352099.jpg",
             "team_1": "Puri Titans",
             "team_2": "Keonjhar Miners",
             "status": "UPCOMING",
@@ -444,7 +430,7 @@
             "title": "Rourkela Superstars vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
             "match_name": "Rourkela Superstars vs Bhubaneshwar Tigers",
             "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249582_53080_ROR_BBT_fc-web_1789983233592.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249582_53080_ROR_BBT_fc-web_1790170352075.jpg",
             "team_1": "Rourkela Superstars",
             "team_2": "Bhubaneshwar Tigers",
             "status": "UPCOMING",
@@ -515,44 +501,108 @@
             "status": "UPCOMING",
             "startTime": "12:30:00 PM 26-09-2026",
             "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249583,
+            "title": "Keonjhar Miners vs Kataka Panthers (Odisha T20 League 2026)",
+            "match_name": "Keonjhar Miners vs Kataka Panthers",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249583_53080_KNM_CUT_fc-web_1790170352097.jpg",
+            "team_1": "Keonjhar Miners",
+            "team_2": "Kataka Panthers",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 PM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4248484,
+            "title": "Charlton Athletic F.C Women vs Manchester City Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Charlton Athletic F.C Women vs Manchester City Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248484_53038_CHL-W_MCI-W_fc-web.jpg",
+            "team_1": "Charlton Athletic F.C Women",
+            "team_2": "Manchester City Women",
+            "status": "UPCOMING",
+            "startTime": "06:00:00 PM 26-09-2026",
+            "user-agent": null
         }
     ],
     "live_matches": [
         {
             "event_category": "Cricket",
-            "match_id": "4249576_ENG",
+            "match_id": "4249577_ENG",
             "title": "Odisha T20 League 2026 [English]",
-            "match_name": "Rourkela Superstars vs Puri Titans [English]",
+            "match_name": "Bhubaneshwar Tigers vs Kataka Panthers [English]",
             "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249576_53080_ROR_PUT_fc-web_1789983233576.jpg",
-            "team_1": "Rourkela Superstars",
-            "team_2": "Puri Titans",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249577_53080_BBT_CUT_fc-web_1790170352686.jpg",
+            "team_1": "Bhubaneshwar Tigers",
+            "team_2": "Kataka Panthers",
             "status": "LIVE",
-            "startTime": "02:30:00 PM 23-09-2026",
+            "startTime": "07:30:00 PM 23-09-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249576_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249577_ENG/english.m3u8"
                 }
             ]
         },
         {
-            "event_category": "Tennis",
-            "match_id": "4248544_ENG",
-            "title": "ATP 250 - Hangzhou Open 2026 [English]",
-            "match_name": "Day 1 [English]",
-            "event_name": "ATP 250 - Hangzhou Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Hangzhou, China",
+            "event_category": "Cricket",
+            "match_id": "4249256_ENG",
+            "title": "DP World ILT20 Development Tournament 2026 [English]",
+            "match_name": "Gulf Giants Development vs Abu Dhabi Knight Riders Development [English]",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/web-1.png",
+            "team_1": "Gulf Giants Development",
+            "team_2": "Abu Dhabi Knight Riders Development",
             "status": "LIVE",
-            "startTime": "01:30:00 PM 23-09-2026",
+            "startTime": "06:30:00 PM 23-09-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248544_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249256_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Football",
+            "match_id": "4249473_ENG",
+            "title": "UEFA Women's Champions League 2026-27 [English]",
+            "match_name": "Oud-Heverlee Leuven Women vs Roma Women [English]",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249473_53078_OHL-W_ROM-W_fc-web_1790067154450.jpg",
+            "team_1": "Oud-Heverlee Leuven Women",
+            "team_2": "Roma Women",
+            "status": "LIVE",
+            "startTime": "10:15:00 PM 23-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249473_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Football",
+            "match_id": "4249474_ENG",
+            "title": "UEFA Women's Champions League 2026-27 [English]",
+            "match_name": "Servette Women vs OL Lyonnes [English]",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249474_53078_SVT-W_OLY-W_fc-web_1790067154527.jpg",
+            "team_1": "Servette Women",
+            "team_2": "OL Lyonnes",
+            "status": "LIVE",
+            "startTime": "10:15:00 PM 23-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249474_ENG/english.m3u8"
                 }
             ]
         }
@@ -560,45 +610,6 @@
     "upcoming_matches": [
         {
             "event_category": "Cricket",
-            "match_id": 4249577,
-            "title": "Bhubaneshwar Tigers vs Cuttack Panthers (Odisha T20 League 2026)",
-            "match_name": "Bhubaneshwar Tigers vs Cuttack Panthers",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249577_53080_BBT_CUT_fc-web_1789983232746.jpg",
-            "team_1": "Bhubaneshwar Tigers",
-            "team_2": "Cuttack Panthers",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 PM 23-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249578,
-            "title": "Keonjhar Miners vs Sambalpur Warriors (Odisha T20 League 2026)",
-            "match_name": "Keonjhar Miners vs Sambalpur Warriors",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249578_53080_KNM_SAW_fc-web_1789983232790.jpg",
-            "team_1": "Keonjhar Miners",
-            "team_2": "Sambalpur Warriors",
-            "status": "UPCOMING",
-            "startTime": "02:30:00 PM 24-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249256,
-            "title": "Gulf Giants Development vs Abu Dhabi Knight Riders Development (DP World ILT20 Development Tournament 2026)",
-            "match_name": "Gulf Giants Development vs Abu Dhabi Knight Riders Development",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/web-1.png",
-            "team_1": "Gulf Giants Development",
-            "team_2": "Abu Dhabi Knight Riders Development",
-            "status": "UPCOMING",
-            "startTime": "06:30:00 PM 23-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249257,
             "title": "Sharjah Warriorz Development vs Desert Vipers Development (DP World ILT20 Development Tournament 2026)",
             "match_name": "Sharjah Warriorz Development vs Desert Vipers Development",
@@ -611,29 +622,29 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249473,
-            "title": "Oud-Heverlee Leuven Women vs Roma Women (UEFA Women's Champions League 2026-27)",
-            "match_name": "Oud-Heverlee Leuven Women vs Roma Women",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249473_53078_OHL-W_ROM-W_fc-web_1790067154450.jpg",
-            "team_1": "Oud-Heverlee Leuven Women",
-            "team_2": "Roma Women",
+            "event_category": "Cricket",
+            "match_id": 4249578,
+            "title": "Keonjhar Miners vs Sambalpur Warriors (Odisha T20 League 2026)",
+            "match_name": "Keonjhar Miners vs Sambalpur Warriors",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249578_53080_KNM_SAW_fc-web_1790170352089.jpg",
+            "team_1": "Keonjhar Miners",
+            "team_2": "Sambalpur Warriors",
             "status": "UPCOMING",
-            "startTime": "10:15:00 PM 23-09-2026",
+            "startTime": "02:30:00 PM 24-09-2026",
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249474,
-            "title": "Servette Women vs OL Lyonnes (UEFA Women's Champions League 2026-27)",
-            "match_name": "Servette Women vs OL Lyonnes",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249474_53078_SVT-W_OLY-W_fc-web_1790067154527.jpg",
-            "team_1": "Servette Women",
-            "team_2": "OL Lyonnes",
+            "event_category": "Cricket",
+            "match_id": 4249579,
+            "title": "Puri Titans vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
+            "match_name": "Puri Titans vs Bhubaneshwar Tigers",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249579_53080_PUT_BBT_fc-web_1790170352733.jpg",
+            "team_1": "Puri Titans",
+            "team_2": "Bhubaneshwar Tigers",
             "status": "UPCOMING",
-            "startTime": "10:15:00 PM 23-09-2026",
+            "startTime": "07:30:00 PM 24-09-2026",
             "user-agent": null
         },
         {
@@ -660,19 +671,6 @@
             "team_2": "Paris FC Women",
             "status": "UPCOMING",
             "startTime": "12:30:00 AM 24-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249579,
-            "title": "Puri Titans vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
-            "match_name": "Puri Titans vs Bhubaneshwar Tigers",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249579_53080_PUT_BBT_fc-web_1789983232822.jpg",
-            "team_1": "Puri Titans",
-            "team_2": "Bhubaneshwar Tigers",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 PM 24-09-2026",
             "user-agent": null
         },
         {
@@ -704,27 +702,27 @@
         {
             "event_category": "Tennis",
             "match_id": 4248538,
-            "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
-            "match_name": "ATP 250 - Chengdu Open 2026",
+            "title": "Day 2 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
+            "match_name": "Day 2",
             "event_name": "ATP 250 - Chengdu Open 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
-            "team_1": "ATP 250 - Chengdu Open 2026",
+            "team_1": "Day 2",
             "team_2": "Chengdu, China",
             "status": "UPCOMING",
-            "startTime": "09:00:00 AM 24-09-2026",
+            "startTime": "10:30:00 AM 24-09-2026",
             "user-agent": null
         },
         {
             "event_category": "Tennis",
             "match_id": 4248545,
-            "title": "ATP 250 - Hangzhou Open 2026 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
-            "match_name": "ATP 250 - Hangzhou Open 2026",
+            "title": "Day 2 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
+            "match_name": "Day 2",
             "event_name": "ATP 250 - Hangzhou Open 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-            "team_1": "ATP 250 - Hangzhou Open 2026",
+            "team_1": "Day 2",
             "team_2": "Hangzhou, China",
             "status": "UPCOMING",
-            "startTime": "09:00:00 AM 24-09-2026",
+            "startTime": "11:00:00 AM 24-09-2026",
             "user-agent": null
         },
         {
@@ -808,12 +806,12 @@
         {
             "event_category": "Cricket",
             "match_id": 4249580,
-            "title": "Rourkela Superstars vs Cuttack Panthers (Odisha T20 League 2026)",
-            "match_name": "Rourkela Superstars vs Cuttack Panthers",
+            "title": "Rourkela Superstars vs Kataka Panthers (Odisha T20 League 2026)",
+            "match_name": "Rourkela Superstars vs Kataka Panthers",
             "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249580_53080_ROR_CUT_fc-web_1789983232752.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249580_53080_ROR_CUT_fc-web_1790170352094.jpg",
             "team_1": "Rourkela Superstars",
-            "team_2": "Cuttack Panthers",
+            "team_2": "Kataka Panthers",
             "status": "UPCOMING",
             "startTime": "02:30:00 PM 25-09-2026",
             "user-agent": null
@@ -863,7 +861,7 @@
             "title": "Puri Titans vs Keonjhar Miners (Odisha T20 League 2026)",
             "match_name": "Puri Titans vs Keonjhar Miners",
             "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249581_53080_PUT_KNM_fc-web_1789983232835.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249581_53080_PUT_KNM_fc-web_1790170352099.jpg",
             "team_1": "Puri Titans",
             "team_2": "Keonjhar Miners",
             "status": "UPCOMING",
@@ -954,7 +952,7 @@
             "title": "Rourkela Superstars vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
             "match_name": "Rourkela Superstars vs Bhubaneshwar Tigers",
             "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249582_53080_ROR_BBT_fc-web_1789983233592.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249582_53080_ROR_BBT_fc-web_1790170352075.jpg",
             "team_1": "Rourkela Superstars",
             "team_2": "Bhubaneshwar Tigers",
             "status": "UPCOMING",
@@ -1024,6 +1022,32 @@
             "team_2": "Baku",
             "status": "UPCOMING",
             "startTime": "12:30:00 PM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249583,
+            "title": "Keonjhar Miners vs Kataka Panthers (Odisha T20 League 2026)",
+            "match_name": "Keonjhar Miners vs Kataka Panthers",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249583_53080_KNM_CUT_fc-web_1790170352097.jpg",
+            "team_1": "Keonjhar Miners",
+            "team_2": "Kataka Panthers",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 PM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4248484,
+            "title": "Charlton Athletic F.C Women vs Manchester City Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Charlton Athletic F.C Women vs Manchester City Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248484_53038_CHL-W_MCI-W_fc-web.jpg",
+            "team_1": "Charlton Athletic F.C Women",
+            "team_2": "Manchester City Women",
+            "status": "UPCOMING",
+            "startTime": "06:00:00 PM 26-09-2026",
             "user-agent": null
         }
     ]
