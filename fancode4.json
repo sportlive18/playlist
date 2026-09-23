@@ -2,13 +2,13 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "06:05:45 AM 23-09-2026",
-    "generated_at": "2026-09-23 00:40:10",
+    "source_last_updated": "11:38:52 AM 23-09-2026",
+    "generated_at": "2026-09-23 06:20:05",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
-    "total_matches": 36,
-    "live_matches_count": 1,
-    "upcoming_matches_count": 35,
+    "total_matches": 38,
+    "live_matches_count": 2,
+    "upcoming_matches_count": 36,
     "matches": [
         {
             "event_category": "Cricket",
@@ -26,6 +26,25 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249275_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": "4248537_ENG",
+            "title": "ATP 250 - Chengdu Open 2026 [English]",
+            "match_name": "Day 1 [English]",
+            "event_name": "ATP 250 - Chengdu Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+            "team_1": "Day 1",
+            "team_2": "Chengdu, China",
+            "status": "LIVE",
+            "startTime": "10:30:00 AM 23-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248537_ENG/english.m3u8"
                 }
             ]
         },
@@ -58,12 +77,12 @@
         {
             "event_category": "Cricket",
             "match_id": 4249256,
-            "title": "TBC vs TBC (DP World ILT20 Development Tournament 2026)",
-            "match_name": "TBC vs TBC",
+            "title": "Gulf Giants Development vs Abu Dhabi Knight Riders Development (DP World ILT20 Development Tournament 2026)",
+            "match_name": "Gulf Giants Development vs Abu Dhabi Knight Riders Development",
             "event_name": "DP World ILT20 Development Tournament 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Gulf Giants Development",
+            "team_2": "Abu Dhabi Knight Riders Development",
             "status": "UPCOMING",
             "startTime": "06:30:00 PM 23-09-2026",
             "user-agent": null
@@ -71,12 +90,12 @@
         {
             "event_category": "Cricket",
             "match_id": 4249257,
-            "title": "TBC vs TBC (DP World ILT20 Development Tournament 2026)",
-            "match_name": "TBC vs TBC",
+            "title": "Sharjah Warriorz Development vs Desert Vipers Development (DP World ILT20 Development Tournament 2026)",
+            "match_name": "Sharjah Warriorz Development vs Desert Vipers Development",
             "event_name": "DP World ILT20 Development Tournament 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Sharjah Warriorz Development",
+            "team_2": "Desert Vipers Development",
             "status": "UPCOMING",
             "startTime": "10:30:00 PM 23-09-2026",
             "user-agent": null
@@ -147,16 +166,16 @@
             "user-agent": null
         },
         {
-            "event_category": "Tennis",
-            "match_id": 4248537,
-            "title": "Day 1 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
-            "match_name": "Day 1",
-            "event_name": "ATP 250 - Chengdu Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
-            "team_1": "Day 1",
-            "team_2": "Chengdu, China",
+            "event_category": "Cricket",
+            "match_id": 4249578,
+            "title": "Keonjhar Miners vs Sambalpur Warriors (Odisha T20 League 2026)",
+            "match_name": "Keonjhar Miners vs Sambalpur Warriors",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249578_53080_KNM_SAW_fc-web_1789983232790.jpg",
+            "team_1": "Keonjhar Miners",
+            "team_2": "Sambalpur Warriors",
             "status": "UPCOMING",
-            "startTime": "10:30:00 AM 23-09-2026",
+            "startTime": "02:30:00 PM 24-09-2026",
             "user-agent": null
         },
         {
@@ -174,15 +193,28 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249578,
-            "title": "Keonjhar Miners vs Sambalpur Warriors (Odisha T20 League 2026)",
-            "match_name": "Keonjhar Miners vs Sambalpur Warriors",
+            "match_id": 4249579,
+            "title": "Puri Titans vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
+            "match_name": "Puri Titans vs Bhubaneshwar Tigers",
             "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249578_53080_KNM_SAW_fc-web_1789983232790.jpg",
-            "team_1": "Keonjhar Miners",
-            "team_2": "Sambalpur Warriors",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249579_53080_PUT_BBT_fc-web_1789983232822.jpg",
+            "team_1": "Puri Titans",
+            "team_2": "Bhubaneshwar Tigers",
             "status": "UPCOMING",
-            "startTime": "02:30:00 PM 24-09-2026",
+            "startTime": "07:30:00 PM 24-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249522,
+            "title": "Calcutta Customs Club vs East Bengal FC (IFA Shield 2026)",
+            "match_name": "Calcutta Customs Club vs East Bengal FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
+            "team_1": "Calcutta Customs Club",
+            "team_2": "East Bengal FC",
+            "status": "UPCOMING",
+            "startTime": "03:00:00 PM 24-09-2026",
             "user-agent": null
         },
         {
@@ -212,19 +244,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249522,
-            "title": "Calcutta Customs Club vs East Bengal FC (IFA Shield 2026)",
-            "match_name": "Calcutta Customs Club vs East Bengal FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
-            "team_1": "Calcutta Customs Club",
-            "team_2": "East Bengal FC",
-            "status": "UPCOMING",
-            "startTime": "03:00:00 PM 24-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Motorsports",
             "match_id": 139654,
             "title": "Practice vs Baku (F2 AZERBAIJAN 2026)",
@@ -235,19 +254,6 @@
             "team_2": "Baku",
             "status": "UPCOMING",
             "startTime": "11:30:00 AM 24-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249579,
-            "title": "Puri Titans vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
-            "match_name": "Puri Titans vs Bhubaneshwar Tigers",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249579_53080_PUT_BBT_fc-web_1789983232822.jpg",
-            "team_1": "Puri Titans",
-            "team_2": "Bhubaneshwar Tigers",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 PM 24-09-2026",
             "user-agent": null
         },
         {
@@ -264,19 +270,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Motorsports",
-            "match_id": 139655,
-            "title": "Qualifying vs Baku (F2 AZERBAIJAN 2026)",
-            "match_name": "Qualifying",
-            "event_name": "F2 AZERBAIJAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-            "team_1": "Qualifying",
-            "team_2": "Baku",
-            "status": "UPCOMING",
-            "startTime": "03:30:00 PM 24-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249258,
             "title": "TBC vs TBC (DP World ILT20 Development Tournament 2026)",
@@ -287,6 +280,19 @@
             "team_2": "TBC",
             "status": "UPCOMING",
             "startTime": "08:30:00 PM 24-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 139655,
+            "title": "Qualifying vs Baku (F2 AZERBAIJAN 2026)",
+            "match_name": "Qualifying",
+            "event_name": "F2 AZERBAIJAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "Qualifying",
+            "team_2": "Baku",
+            "status": "UPCOMING",
+            "startTime": "03:30:00 PM 24-09-2026",
             "user-agent": null
         },
         {
@@ -483,6 +489,32 @@
             "status": "UPCOMING",
             "startTime": "02:30:00 PM 26-09-2026",
             "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248540,
+            "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
+            "match_name": "ATP 250 - Chengdu Open 2026",
+            "event_name": "ATP 250 - Chengdu Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+            "team_1": "ATP 250 - Chengdu Open 2026",
+            "team_2": "Chengdu, China",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 AM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248547,
+            "title": "ATP 250 - Hangzhou Open 2026 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
+            "match_name": "ATP 250 - Hangzhou Open 2026",
+            "event_name": "ATP 250 - Hangzhou Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
+            "team_1": "ATP 250 - Hangzhou Open 2026",
+            "team_2": "Hangzhou, China",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 AM 26-09-2026",
+            "user-agent": null
         }
     ],
     "live_matches": [
@@ -502,6 +534,25 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249275_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": "4248537_ENG",
+            "title": "ATP 250 - Chengdu Open 2026 [English]",
+            "match_name": "Day 1 [English]",
+            "event_name": "ATP 250 - Chengdu Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+            "team_1": "Day 1",
+            "team_2": "Chengdu, China",
+            "status": "LIVE",
+            "startTime": "10:30:00 AM 23-09-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248537_ENG/english.m3u8"
                 }
             ]
         }
@@ -536,12 +587,12 @@
         {
             "event_category": "Cricket",
             "match_id": 4249256,
-            "title": "TBC vs TBC (DP World ILT20 Development Tournament 2026)",
-            "match_name": "TBC vs TBC",
+            "title": "Gulf Giants Development vs Abu Dhabi Knight Riders Development (DP World ILT20 Development Tournament 2026)",
+            "match_name": "Gulf Giants Development vs Abu Dhabi Knight Riders Development",
             "event_name": "DP World ILT20 Development Tournament 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Gulf Giants Development",
+            "team_2": "Abu Dhabi Knight Riders Development",
             "status": "UPCOMING",
             "startTime": "06:30:00 PM 23-09-2026",
             "user-agent": null
@@ -549,12 +600,12 @@
         {
             "event_category": "Cricket",
             "match_id": 4249257,
-            "title": "TBC vs TBC (DP World ILT20 Development Tournament 2026)",
-            "match_name": "TBC vs TBC",
+            "title": "Sharjah Warriorz Development vs Desert Vipers Development (DP World ILT20 Development Tournament 2026)",
+            "match_name": "Sharjah Warriorz Development vs Desert Vipers Development",
             "event_name": "DP World ILT20 Development Tournament 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Sharjah Warriorz Development",
+            "team_2": "Desert Vipers Development",
             "status": "UPCOMING",
             "startTime": "10:30:00 PM 23-09-2026",
             "user-agent": null
@@ -625,16 +676,16 @@
             "user-agent": null
         },
         {
-            "event_category": "Tennis",
-            "match_id": 4248537,
-            "title": "Day 1 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
-            "match_name": "Day 1",
-            "event_name": "ATP 250 - Chengdu Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
-            "team_1": "Day 1",
-            "team_2": "Chengdu, China",
+            "event_category": "Cricket",
+            "match_id": 4249578,
+            "title": "Keonjhar Miners vs Sambalpur Warriors (Odisha T20 League 2026)",
+            "match_name": "Keonjhar Miners vs Sambalpur Warriors",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249578_53080_KNM_SAW_fc-web_1789983232790.jpg",
+            "team_1": "Keonjhar Miners",
+            "team_2": "Sambalpur Warriors",
             "status": "UPCOMING",
-            "startTime": "10:30:00 AM 23-09-2026",
+            "startTime": "02:30:00 PM 24-09-2026",
             "user-agent": null
         },
         {
@@ -652,15 +703,28 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249578,
-            "title": "Keonjhar Miners vs Sambalpur Warriors (Odisha T20 League 2026)",
-            "match_name": "Keonjhar Miners vs Sambalpur Warriors",
+            "match_id": 4249579,
+            "title": "Puri Titans vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
+            "match_name": "Puri Titans vs Bhubaneshwar Tigers",
             "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249578_53080_KNM_SAW_fc-web_1789983232790.jpg",
-            "team_1": "Keonjhar Miners",
-            "team_2": "Sambalpur Warriors",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249579_53080_PUT_BBT_fc-web_1789983232822.jpg",
+            "team_1": "Puri Titans",
+            "team_2": "Bhubaneshwar Tigers",
             "status": "UPCOMING",
-            "startTime": "02:30:00 PM 24-09-2026",
+            "startTime": "07:30:00 PM 24-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249522,
+            "title": "Calcutta Customs Club vs East Bengal FC (IFA Shield 2026)",
+            "match_name": "Calcutta Customs Club vs East Bengal FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
+            "team_1": "Calcutta Customs Club",
+            "team_2": "East Bengal FC",
+            "status": "UPCOMING",
+            "startTime": "03:00:00 PM 24-09-2026",
             "user-agent": null
         },
         {
@@ -690,19 +754,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249522,
-            "title": "Calcutta Customs Club vs East Bengal FC (IFA Shield 2026)",
-            "match_name": "Calcutta Customs Club vs East Bengal FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
-            "team_1": "Calcutta Customs Club",
-            "team_2": "East Bengal FC",
-            "status": "UPCOMING",
-            "startTime": "03:00:00 PM 24-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Motorsports",
             "match_id": 139654,
             "title": "Practice vs Baku (F2 AZERBAIJAN 2026)",
@@ -713,19 +764,6 @@
             "team_2": "Baku",
             "status": "UPCOMING",
             "startTime": "11:30:00 AM 24-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249579,
-            "title": "Puri Titans vs Bhubaneshwar Tigers (Odisha T20 League 2026)",
-            "match_name": "Puri Titans vs Bhubaneshwar Tigers",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249579_53080_PUT_BBT_fc-web_1789983232822.jpg",
-            "team_1": "Puri Titans",
-            "team_2": "Bhubaneshwar Tigers",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 PM 24-09-2026",
             "user-agent": null
         },
         {
@@ -742,19 +780,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Motorsports",
-            "match_id": 139655,
-            "title": "Qualifying vs Baku (F2 AZERBAIJAN 2026)",
-            "match_name": "Qualifying",
-            "event_name": "F2 AZERBAIJAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-            "team_1": "Qualifying",
-            "team_2": "Baku",
-            "status": "UPCOMING",
-            "startTime": "03:30:00 PM 24-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249258,
             "title": "TBC vs TBC (DP World ILT20 Development Tournament 2026)",
@@ -765,6 +790,19 @@
             "team_2": "TBC",
             "status": "UPCOMING",
             "startTime": "08:30:00 PM 24-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 139655,
+            "title": "Qualifying vs Baku (F2 AZERBAIJAN 2026)",
+            "match_name": "Qualifying",
+            "event_name": "F2 AZERBAIJAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "Qualifying",
+            "team_2": "Baku",
+            "status": "UPCOMING",
+            "startTime": "03:30:00 PM 24-09-2026",
             "user-agent": null
         },
         {
@@ -960,6 +998,32 @@
             "team_2": "Bhubaneshwar Tigers",
             "status": "UPCOMING",
             "startTime": "02:30:00 PM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248540,
+            "title": "ATP 250 - Chengdu Open 2026 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
+            "match_name": "ATP 250 - Chengdu Open 2026",
+            "event_name": "ATP 250 - Chengdu Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+            "team_1": "ATP 250 - Chengdu Open 2026",
+            "team_2": "Chengdu, China",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 AM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248547,
+            "title": "ATP 250 - Hangzhou Open 2026 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
+            "match_name": "ATP 250 - Hangzhou Open 2026",
+            "event_name": "ATP 250 - Hangzhou Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
+            "team_1": "ATP 250 - Hangzhou Open 2026",
+            "team_2": "Hangzhou, China",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 AM 26-09-2026",
             "user-agent": null
         }
     ]
