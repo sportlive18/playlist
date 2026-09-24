@@ -1,10 +1,76 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "24/9/2026, 6:11:45 am",
+  "updatedAt": "24/9/2026, 10:55:27 am",
   "total_matches": 38,
-  "live_matches": 0,
-  "upcoming_matches": 38,
+  "live_matches": 2,
+  "upcoming_matches": 36,
   "matches": [
+    {
+      "category": "Tennis",
+      "title": "Day 2 [English]",
+      "tournament": "ATP 250 - Chengdu Open 2026",
+      "match_id": "4248538",
+      "status": "LIVE",
+      "startTime": "10:30:00 AM 24-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248538_english_hls_f83a42791955515_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790311990~_GO=Generated~acl=/mumbai/4248538_english_hls_f83a42791955515_1ta-di_h264/*~Signature=AUh_zpVntiDbmm0JAZB8q26ZFSvAzfI-wh0Y9cvR4gn79LJJ2bpR_IeXbJCq1j-sOF_qFrjzphvNcX2l_vVzbQrYDTUH",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248538_english_hls_f83a42791955515_1ta-di_h264/240p.m3u8?hdntl=Expires=1790311990~_GO=Generated~acl=/mumbai/4248538_english_hls_f83a42791955515_1ta-di_h264/*~Signature=AUh_zpVntiDbmm0JAZB8q26ZFSvAzfI-wh0Y9cvR4gn79LJJ2bpR_IeXbJCq1j-sOF_qFrjzphvNcX2l_vVzbQrYDTUH",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248538_english_hls_f83a42791955515_1ta-di_h264/360p.m3u8?hdntl=Expires=1790311990~_GO=Generated~acl=/mumbai/4248538_english_hls_f83a42791955515_1ta-di_h264/*~Signature=AUh_zpVntiDbmm0JAZB8q26ZFSvAzfI-wh0Y9cvR4gn79LJJ2bpR_IeXbJCq1j-sOF_qFrjzphvNcX2l_vVzbQrYDTUH",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248538_english_hls_f83a42791955515_1ta-di_h264/480p.m3u8?hdntl=Expires=1790311990~_GO=Generated~acl=/mumbai/4248538_english_hls_f83a42791955515_1ta-di_h264/*~Signature=AUh_zpVntiDbmm0JAZB8q26ZFSvAzfI-wh0Y9cvR4gn79LJJ2bpR_IeXbJCq1j-sOF_qFrjzphvNcX2l_vVzbQrYDTUH",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248538_english_hls_f83a42791955515_1ta-di_h264/540p.m3u8?hdntl=Expires=1790311990~_GO=Generated~acl=/mumbai/4248538_english_hls_f83a42791955515_1ta-di_h264/*~Signature=AUh_zpVntiDbmm0JAZB8q26ZFSvAzfI-wh0Y9cvR4gn79LJJ2bpR_IeXbJCq1j-sOF_qFrjzphvNcX2l_vVzbQrYDTUH",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248538_english_hls_f83a42791955515_1ta-di_h264/720p.m3u8?hdntl=Expires=1790311990~_GO=Generated~acl=/mumbai/4248538_english_hls_f83a42791955515_1ta-di_h264/*~Signature=AUh_zpVntiDbmm0JAZB8q26ZFSvAzfI-wh0Y9cvR4gn79LJJ2bpR_IeXbJCq1j-sOF_qFrjzphvNcX2l_vVzbQrYDTUH",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248538_english_hls_f83a42791955515_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790311990~_GO=Generated~acl=/mumbai/4248538_english_hls_f83a42791955515_1ta-di_h264/*~Signature=AUh_zpVntiDbmm0JAZB8q26ZFSvAzfI-wh0Y9cvR4gn79LJJ2bpR_IeXbJCq1j-sOF_qFrjzphvNcX2l_vVzbQrYDTUH"
+          },
+          "cookie": "hdntl=Expires=1790311990~_GO=Generated~acl=/mumbai/4248538_english_hls_f83a42791955515_1ta-di_h264/*~Signature=AUh_zpVntiDbmm0JAZB8q26ZFSvAzfI-wh0Y9cvR4gn79LJJ2bpR_IeXbJCq1j-sOF_qFrjzphvNcX2l_vVzbQrYDTUH",
+          "expires": "1790311990",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 2 [English]",
+      "tournament": "ATP 250 - Hangzhou Open 2026",
+      "match_id": "4248545",
+      "status": "LIVE",
+      "startTime": "11:00:00 AM 24-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4248545_english_hls_b1d2f2b7fc23956_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790313806~_GO=Generated~acl=/mumbai/4248545_english_hls_b1d2f2b7fc23956_1ta-di_h264/*~Signature=AUh_zpWsx8xRfMfnWxYV6xZgl46mpGEaSazJPMNVErIVXYWuDySFENCPmLWalLX_UE3jTfpbEChnnDXx-qrcYxZxV00D",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4248545_english_hls_b1d2f2b7fc23956_1ta-di_h264/240p.m3u8?hdntl=Expires=1790313806~_GO=Generated~acl=/mumbai/4248545_english_hls_b1d2f2b7fc23956_1ta-di_h264/*~Signature=AUh_zpWsx8xRfMfnWxYV6xZgl46mpGEaSazJPMNVErIVXYWuDySFENCPmLWalLX_UE3jTfpbEChnnDXx-qrcYxZxV00D",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4248545_english_hls_b1d2f2b7fc23956_1ta-di_h264/360p.m3u8?hdntl=Expires=1790313806~_GO=Generated~acl=/mumbai/4248545_english_hls_b1d2f2b7fc23956_1ta-di_h264/*~Signature=AUh_zpWsx8xRfMfnWxYV6xZgl46mpGEaSazJPMNVErIVXYWuDySFENCPmLWalLX_UE3jTfpbEChnnDXx-qrcYxZxV00D",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4248545_english_hls_b1d2f2b7fc23956_1ta-di_h264/480p.m3u8?hdntl=Expires=1790313806~_GO=Generated~acl=/mumbai/4248545_english_hls_b1d2f2b7fc23956_1ta-di_h264/*~Signature=AUh_zpWsx8xRfMfnWxYV6xZgl46mpGEaSazJPMNVErIVXYWuDySFENCPmLWalLX_UE3jTfpbEChnnDXx-qrcYxZxV00D",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4248545_english_hls_b1d2f2b7fc23956_1ta-di_h264/540p.m3u8?hdntl=Expires=1790313806~_GO=Generated~acl=/mumbai/4248545_english_hls_b1d2f2b7fc23956_1ta-di_h264/*~Signature=AUh_zpWsx8xRfMfnWxYV6xZgl46mpGEaSazJPMNVErIVXYWuDySFENCPmLWalLX_UE3jTfpbEChnnDXx-qrcYxZxV00D",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4248545_english_hls_b1d2f2b7fc23956_1ta-di_h264/720p.m3u8?hdntl=Expires=1790313806~_GO=Generated~acl=/mumbai/4248545_english_hls_b1d2f2b7fc23956_1ta-di_h264/*~Signature=AUh_zpWsx8xRfMfnWxYV6xZgl46mpGEaSazJPMNVErIVXYWuDySFENCPmLWalLX_UE3jTfpbEChnnDXx-qrcYxZxV00D",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248545_english_hls_b1d2f2b7fc23956_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790313806~_GO=Generated~acl=/mumbai/4248545_english_hls_b1d2f2b7fc23956_1ta-di_h264/*~Signature=AUh_zpWsx8xRfMfnWxYV6xZgl46mpGEaSazJPMNVErIVXYWuDySFENCPmLWalLX_UE3jTfpbEChnnDXx-qrcYxZxV00D"
+          },
+          "cookie": "hdntl=Expires=1790313806~_GO=Generated~acl=/mumbai/4248545_english_hls_b1d2f2b7fc23956_1ta-di_h264/*~Signature=AUh_zpWsx8xRfMfnWxYV6xZgl46mpGEaSazJPMNVErIVXYWuDySFENCPmLWalLX_UE3jTfpbEChnnDXx-qrcYxZxV00D",
+          "expires": "1790313806",
+          "expire_date": ""
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "South Africa vs Australia",
@@ -64,31 +130,12 @@
     },
     {
       "category": "Cricket",
-      "title": "TBC vs TBC",
+      "title": "Gulf Giants Development vs Desert Vipers Development",
       "tournament": "DP World ILT20 Development Tournament 2026",
       "match_id": "4249258",
       "status": "UPCOMING",
       "startTime": "08:30:00 PM 24-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-ILT20_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Calcutta Customs Club vs East Bengal FC",
-      "tournament": "IFA Shield 2026",
-      "match_id": "4249522",
-      "status": "UPCOMING",
-      "startTime": "03:00:00 PM 24-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -120,32 +167,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "Day 2",
-      "tournament": "ATP 250 - Chengdu Open 2026",
-      "match_id": "4248538",
+      "category": "Football",
+      "title": "Calcutta Customs Club vs East Bengal FC",
+      "tournament": "IFA Shield 2026",
+      "match_id": "4249522",
       "status": "UPCOMING",
-      "startTime": "10:30:00 AM 24-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 2",
-      "tournament": "ATP 250 - Hangzhou Open 2026",
-      "match_id": "4248545",
-      "status": "UPCOMING",
-      "startTime": "11:00:00 AM 24-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
+      "startTime": "03:00:00 PM 24-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -164,7 +192,26 @@
       "match_id": "139654",
       "status": "UPCOMING",
       "startTime": "11:30:00 AM 24-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Rourkela Superstars vs Kataka Panthers",
+      "tournament": "Odisha T20 League 2026",
+      "match_id": "4249580",
+      "status": "UPCOMING",
+      "startTime": "02:30:00 PM 25-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249580_53080_ROR_CUT_fc-web_1790170352094.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -202,7 +249,7 @@
       "match_id": "139655",
       "status": "UPCOMING",
       "startTime": "03:30:00 PM 24-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -253,25 +300,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Rourkela Superstars vs Kataka Panthers",
-      "tournament": "Odisha T20 League 2026",
-      "match_id": "4249580",
-      "status": "UPCOMING",
-      "startTime": "02:30:00 PM 25-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249580_53080_ROR_CUT_fc-web_1790170352094.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Tennis",
       "title": "ATP 250 - Chengdu Open 2026",
       "tournament": "ATP 250 - Chengdu Open 2026",
@@ -310,13 +338,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "Sprint Race",
-      "tournament": "F2 AZERBAIJAN 2026",
-      "match_id": "139656",
+      "category": "Cricket",
+      "title": "Puri Titans vs Keonjhar Miners",
+      "tournament": "Odisha T20 League 2026",
+      "match_id": "4249581",
       "status": "UPCOMING",
-      "startTime": "09:45:00 AM 25-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "startTime": "07:30:00 PM 25-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249581_53080_PUT_KNM_fc-web_1790170352099.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -329,13 +357,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Puri Titans vs Keonjhar Miners",
-      "tournament": "Odisha T20 League 2026",
-      "match_id": "4249581",
+      "category": "Motorsports",
+      "title": "Sprint Race",
+      "tournament": "F2 AZERBAIJAN 2026",
+      "match_id": "139656",
       "status": "UPCOMING",
-      "startTime": "07:30:00 PM 25-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249581_53080_PUT_KNM_fc-web_1790170352099.jpg",
+      "startTime": "09:45:00 AM 25-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -373,7 +401,7 @@
       "match_id": "139657",
       "status": "UPCOMING",
       "startTime": "03:45:00 PM 25-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -563,7 +591,7 @@
       "match_id": "4249606",
       "status": "UPCOMING",
       "startTime": "12:30:00 PM 26-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bakuu.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
